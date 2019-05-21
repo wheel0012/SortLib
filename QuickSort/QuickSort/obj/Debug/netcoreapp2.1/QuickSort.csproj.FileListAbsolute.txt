@@ -1,0 +1,11 @@
+C:\Users\wheel\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.deps.json
+C:\Users\wheel\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.json
+C:\Users\wheel\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.dev.json
+C:\Users\wheel\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.dll
+C:\Users\wheel\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.pdb
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csprojAssemblyReference.cache
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfo.cs
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.dll
+C:\Users\wheel\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.pdb
