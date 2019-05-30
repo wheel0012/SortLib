@@ -1,0 +1,6 @@
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\bin\Debug\FastSort.dll
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\bin\Debug\FastSort.pdb
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\obj\Debug\FastSort.csprojAssemblyReference.cache
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\obj\Debug\FastSort.csproj.CoreCompileInputs.cache
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\obj\Debug\FastSort.dll
+C:\Users\wheel\Documents\GitHub\SortLib\QuickSort\FastSort\obj\Debug\FastSort.pdb

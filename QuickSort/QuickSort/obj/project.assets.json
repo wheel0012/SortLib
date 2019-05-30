@@ -537,7 +537,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "n8q7TAFbeXLhWUDvqhylIhDrptABF88vsILe+Dqv9N4tgob8qR0EpcedcrSv7B+m+qFM0l4h4WCQ0i47PkYoTA==",
+      "sha512": "x188gIZXOwFXkPXyGavEcPGcR6RGvjFOES2QzskN4gERZjWPN34qhRsZVMC0CLJfQLGSButarcgWxPPM4vmg0w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
@@ -554,7 +554,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "hO6bVpEz7b29FR2o+KPjgsvuOf/hpumeEGc//3QEO3564uSWQ0sYqhcy3HcqsTS7cW2uJKRpPK6snRhxXeJLaQ==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj",
+      "projectUniqueName": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj",
       "projectName": "QuickSort",
-      "projectPath": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj",
+      "projectPath": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj",
       "packagesPath": "C:\\Users\\wheel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\obj\\",
+      "outputPath": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -729,7 +729,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

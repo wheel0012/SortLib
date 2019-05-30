@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj": {}
+    "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj": {
+    "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj",
+        "projectUniqueName": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj",
         "projectName": "QuickSort",
-        "projectPath": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\QuickSort.csproj",
+        "projectPath": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\QuickSort.csproj",
         "packagesPath": "C:\\Users\\wheel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wheel\\source\\repos\\QuickSort\\QuickSort\\obj\\",
+        "outputPath": "C:\\Users\\wheel\\Documents\\GitHub\\SortLib\\QuickSort\\QuickSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,7 +42,6 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
